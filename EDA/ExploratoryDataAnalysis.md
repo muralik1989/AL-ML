@@ -1,4 +1,4 @@
-###Exploratory Data Analysis using Python: Unveiling Insights Hidden in Data
+### Exploratory Data Analysis using Python: Unveiling Insights Hidden in Data
 
  Introduction:
  Exploratory Data Analysis (EDA) is a crucial step in the data analysis process. It helps us understand the data, discover patterns, detect anomalies, and generate insights. Python, with its powerful libraries like Pandas, NumPy, and Matplotlib, provides a versatile toolkit for performing EDA effectively. In this blog post, we will walk you through the various steps involved in exploratory data analysis using Python.
